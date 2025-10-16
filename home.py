@@ -1,3 +1,1 @@
-print("hallo wereld !")
-print("Welkom in onze ijssalon"))
-Print("Bugs opgelost")
+print("bugs opgelost")
